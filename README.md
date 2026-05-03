@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Caroline Weissmann 👋
 
-🎯 Desenvolvedora Front-end em início de carreira
-💻 Focada em criar interfaces organizadas, funcionais e com boa experiência do usuário
-📚 Atualmente estudando JavaScript, HTML e CSS
+<p> 🎯 Desenvolvedora Front-end em início de carreira </p>
+<p>💻 Focada em criar interfaces organizadas, funcionais e com boa experiência do usuário </p>
+<p>📚 Atualmente estudando JavaScript, HTML e CSS</p>
 
 🚀 Sobre mim
 🔭 Buscando minha primeira oportunidade como dev
