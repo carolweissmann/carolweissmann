@@ -11,8 +11,8 @@
 💬 Pronomes: ela/dela
 
 <p align="left">
-  <img src="..." width="40" height="30"/>
-  <img src="..." width="40" height="30" style="margin-left: 10px;"/>
-  <img src="..." width="40" height="30" style="margin-left: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30" style="margin-left: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30" style="margin-left: 10px;"/>
 </p>
 
