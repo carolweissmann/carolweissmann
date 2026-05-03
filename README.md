@@ -4,11 +4,10 @@
 <p>💻 Focada em criar interfaces organizadas, funcionais e com boa experiência do usuário </p>
 <p>📚 Atualmente estudando JavaScript, HTML e CSS</p>
 
-🚀 Sobre mim
-🔭 Buscando minha primeira oportunidade como dev
-🌱 Aprendendo desenvolvimento web na prática
-⚡ Interesse em design, UI/UX e projetos visuais
-💬 Pronomes: ela/dela
+<h2>🚀 Sobre mim</h2>
+<p>🔭 Buscando minha primeira oportunidade como dev</p>
+<p>🌱 Aprendendo desenvolvimento web na prática, interesse em design, UI/UX e projetos visuais.</p>
+<p>💬 Pronomes: ela/dela</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"/>
